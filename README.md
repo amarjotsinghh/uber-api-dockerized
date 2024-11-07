@@ -1,8 +1,8 @@
-Here’s a more detailed and comprehensive version of the README.md, including additional explanations and expanding on each section for clarity:
+
 
 ---
 
-# Uber Python Sample Application for Developers
+# uber-api-dockerized
 
 [![TravisCI](https://travis-ci.org/uber/Python-Sample-Application.svg?branch=master)](https://travis-ci.org/uber/Python-Sample-Application)  
 [![Coverage Status](https://coveralls.io/repos/uber/Python-Sample-Application/badge.png)](https://coveralls.io/r/uber/Python-Sample-Application)
